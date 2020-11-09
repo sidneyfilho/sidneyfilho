@@ -10,7 +10,7 @@ Forte atuação em linguagens de programação Python, Java, JavaScript e PHP.
 
 Estou dentro da área de TI há 6 anos com desenvolvimento de FrontEnd/BackEnd das aplicações, administração e modelagem de banco de dados, levantamento de requisitos dos sistemas, análise de corretivas, treinamento dos sistemas, responsável pelos processos de qa e deploy das aplicações, gerenciamento de versionamento dos sistemas e sendo responsável também pela segurança da informação nos ciclos dos softwares.
 
-#### 🔎 Curiosidade
+#### 🔎 Curiosidades
 
 - ✨ Comecei a gostar da área de TI com 16 anos, onde fiz meus primeiros scripts usando .LUA para servidores de jogos online;
 - 😅 Já tive experiência profissional com VB e Sybase;
@@ -20,7 +20,7 @@ Estou dentro da área de TI há 6 anos com desenvolvimento de FrontEnd/BackEnd d
 
 
 
-### 📢 Contato
+### 📢 Contatos
 ![enter image description here](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidneyfilho/)
 ![enter image description here](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sidpfilho@gmail.com)
 
