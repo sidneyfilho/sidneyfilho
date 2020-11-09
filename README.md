@@ -20,7 +20,7 @@ Estou dentro da área de TI há 6 anos com desenvolvimento de FrontEnd/BackEnd d
 
 
 
-### 📢 Contatos
+### 📢 Contato
 ![enter image description here](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidneyfilho/)
 ![enter image description here](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sidpfilho@gmail.com)
 
