@@ -16,7 +16,7 @@ Estou dentro da área de TI há 6 anos com desenvolvimento de FrontEnd/BackEnd d
 
 - ✨ Comecei a gostar da área de TI com 16 anos, onde fiz meus primeiros scripts usando .LUA para servidores de jogos online;
 - 😅 Já tive experiência profissional com VB e Sybase;
-- 📖 Atuamente estou lendo o livro `Java 8 Preview Sampler`;
+- 📖 Atualmente estou lendo o livro `Java 8 Preview Sampler`;
 - 🎥 Nas horas vagas estou aprimorando meu conhecimento em `Microsserviços Java com Spring Boot, usando: Feign, Ribbon, Hystrix, OAuth, JWT, Discovery Server Eureka, API Gateway Zuul e Config Server`;
 - 👯 Estou procurando colaborar na comunidade `VueJS`;
 
