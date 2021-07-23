@@ -1,5 +1,5 @@
 # Olá, me chamo Sidney. Bem-vindo ao meu GIT 👋
-#### Atualmente trabalho na Pitang <img title="Pitang" src="https://pitang.com/o/pitang-2018-theme/images/favicon.ico" width="15" height="15"/> como engenheiro de software pleno.
+#### Atualmente trabalho na Iblue <img title="Pitang" src="https://static.wixstatic.com/ficons/a1a93e_a737fa6fbda3478dbcfd313ff8f7b11a%7Emv2.ico" width="15" height="15"/> como Analista Desenvolvedor Sênior.
 
 
 ### 💬 Sobre Mim
