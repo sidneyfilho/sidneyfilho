@@ -1,4 +1,4 @@
-# Olá, me chamo Sidney. Bem-vindo ao meu GIT 👋
+# Olá, me chamo Sidney. Bem-vindo(a) ao meu GIT 👋
 #### Atualmente trabalho na Certsys <img title="Certsys" src="https://www.certsys.com.br/wp-content/uploads/2021/10/kenoby-final-10.png" width="15" height="15"/> como Analista Desenvolvedor Sênior.
 
 
