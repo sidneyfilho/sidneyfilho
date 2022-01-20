@@ -1,5 +1,5 @@
 # Olá, me chamo Sidney. Bem-vindo ao meu GIT 👋
-#### Atualmente trabalho na Iblue <img title="Pitang" src="https://static.wixstatic.com/ficons/a1a93e_a737fa6fbda3478dbcfd313ff8f7b11a%7Emv2.ico" width="15" height="15"/> como Analista Desenvolvedor Sênior.
+#### Atualmente trabalho na Certsys <img title="Certsys" src="https://www.certsys.com.br/wp-content/uploads/2021/10/kenoby-final-10.png" width="15" height="15"/> como Analista Desenvolvedor Sênior.
 
 
 ### 💬 Sobre Mim
