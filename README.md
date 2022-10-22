@@ -1,5 +1,5 @@
 # Olá, me chamo Sidney. Bem-vindo(a) ao meu GIT 👋
-#### Atualmente trabalho na Certsys <img title="Certsys" src="https://www.certsys.com.br/wp-content/uploads/2021/10/kenoby-final-10.png" width="15" height="15"/> como Analista Desenvolvedor Sênior.
+#### Atualmente trabalho no Banco BV <img title="Banco BV" src="https://www.bv.com.br/site/icons/favicon-32x32.png" width="15" height="15"/> como Analista Desenvolvedor Sênior.
 
 
 ### 💬 Sobre Mim
