@@ -1,5 +1,5 @@
 # Olá, me chamo Sidney. Bem-vindo(a) ao meu GIT 👋
-#### Atualmente trabalho no Banco BV <img title="Banco BV" src="https://www.bv.com.br/site/icons/favicon-32x32.png" width="15" height="15"/> como Analista Desenvolvedor Sênior.
+#### Atualmente trabalho no Banco BV <img title="Banco BV" src="https://www.bv.com.br/site/icons/favicon-32x32.png" width="15" height="15"/> como Tech Lead.
 
 
 ### 💬 Sobre Mim
