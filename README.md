@@ -10,7 +10,7 @@ Forte atuação em linguagens de programação ![Python](https://img.shields.io/
 
 Frameworks  ![Spring](https://img.shields.io/badge/-Spring-159E37?logo=Spring&logoColor=white) ![Django](https://img.shields.io/badge/-Django-0C4B33?logo=Django&logoColor=white) ![VueJS](https://img.shields.io/badge/-Vue.js-3FB27F?logo=Vue.js&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-D6002F?logo=Angular&logoColor=white) ![JS](https://img.shields.io/badge/-Laravel-red?logo=Laravel&logoColor=white)
 
-Estou dentro da área de TI atuando como desenvolvedor de FrontEnd/BackEnd das aplicações, administração e modelagem de banco de dados, levantamento de requisitos dos sistemas, análise de corretivas, treinamento dos sistemas, responsável pelos processos de qa e deploy das aplicações, gerenciamento de versionamento dos sistemas e sendo responsável também pela segurança da informação nos ciclos dos softwares.
+Estou dentro da área de TI atuando como Tech Lead orientando equipe de engenheiros na criação de produtos e projetos tecnológicos. Conhecimento sólido em FrontEnd/BackEnd das aplicações, administração e modelagem de banco de dados, levantamento de requisitos dos sistemas, análise de ações corretivas, treinamento dos sistemas, responsável pelos processos de qa e deploy das aplicações, gerenciamento de versionamento dos sistemas e sendo responsável também pela segurança da informação nos ciclos dos softwares.
 
 #### 🔎 Curiosidades
 
