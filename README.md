@@ -228,6 +228,52 @@ Fora do ambiente corporativo, gosto de explorar desenvolvimento de jogos, criaç
 Acredito que construir projetos próprios é uma das melhores formas de continuar aprendendo, experimentar novas ideias e desenvolver uma visão ainda mais ampla de engenharia.
 
 ---
+## 🚀 Portfolio
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sidneyfilho/SpecBoard">
+        <img src="https://raw.githubusercontent.com/sidneyfilho/SpecBoard/master/public/specboard-banner.png" height="110" alt="SpecBoard"/>
+      </a>
+      <br/>
+      <strong>SpecBoard</strong>
+      <p>Gestão visual de projetos e especificações.</p>
+      <a href="https://github.com/sidneyfilho/SpecBoard">🔗 View Project</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sidneyfilho/doc-mobney">
+        <img src="https://raw.githubusercontent.com/sidneyfilho/doc-mobney/master/docs/img/capa.png" height="110" alt="Mobney"/>
+      </a>
+      <br/>
+      <strong>Mobney</strong>
+      <p>Gestão financeira pessoal inteligente.</p>
+      <a href="https://github.com/sidneyfilho/doc-mobney">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/sidneyfilho/doc-alvorland">
+        <img src="https://raw.githubusercontent.com/sidneyfilho/doc-alvorland/master/ui/logo.png" height="110" alt="Alvorland"/>
+      </a>
+      <br/>
+      <strong>Alvorland</strong>
+      <p>Game 3D com mundo virtual e exploração.</p>
+      <a href="https://github.com/sidneyfilho/doc-alvorland">🔗 View Project</a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/sidneyfilho/asset-studio-3d">
+        <img src="https://raw.githubusercontent.com/sidneyfilho/asset-studio-3d/master/app-icon.svg" height="110" alt="Asset Studio 3D"/>
+      </a>
+      <br/>
+      <strong>Asset Studio 3D</strong>
+      <p>Criação e gerenciamento de assets 3D.</p>
+      <a href="https://github.com/sidneyfilho/asset-studio-3d">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🎓 Education
 
