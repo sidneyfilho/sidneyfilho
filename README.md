@@ -67,7 +67,7 @@ flowchart LR
 
 ---
 
-## 🚀 Expertise & Tech Stack
+## 🚀 Conhecimento e conjunto de tecnologias
 
 <div align="center">
 
@@ -98,7 +98,7 @@ flowchart LR
 
 </div>
 
-### 🏗️ Architecture & Engineering Practices
+### 🏗️ Práticas de Arquitetura e Engenharia
 
 - Microservices Architecture
 - Hexagonal Architecture
@@ -114,7 +114,7 @@ flowchart LR
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experiência Profissional
 
 <details>
 <summary><b>🏦 Banco BV — IT Lead | Open Finance</b></summary>
@@ -210,7 +210,7 @@ Essa etapa consolidou minha base como desenvolvedor Full Stack.
 
 ---
 
-## 🎮 Beyond the Code
+## 🎮 Além do Código
 
 <div align="center">
 
@@ -275,7 +275,7 @@ Acredito que construir projetos próprios é uma das melhores formas de continua
 
 ---
 
-## 🎓 Education
+## 🎓 Educação
 
 - **MBA em Engenharia de Software** — Universidade Tecnológica Federal do Paraná (UTFPR), 2022–2023
 - **Análise e Desenvolvimento de Sistemas** — FAFICA, 2014–2017
@@ -285,7 +285,7 @@ Acredito que construir projetos próprios é uma das melhores formas de continua
 
 <div align="center">
 
-### 🤝 Let's Connect
+### 🤝 Vamos nos conectar
 
 Sempre aberto a trocar ideias sobre engenharia de software, arquitetura, Open Finance, liderança e inovação.
 
