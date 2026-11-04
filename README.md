@@ -228,7 +228,7 @@ Fora do ambiente corporativo, gosto de explorar desenvolvimento de jogos, criaç
 Acredito que construir projetos próprios é uma das melhores formas de continuar aprendendo, experimentar novas ideias e desenvolver uma visão ainda mais ampla de engenharia.
 
 ---
-## 🚀 Portfolio
+## 🧩 Portfolio
 
 <table>
   <tr>
