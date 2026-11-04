@@ -242,24 +242,24 @@ Acredito que construir projetos próprios é uma das melhores formas de continua
       <a href="https://github.com/sidneyfilho/SpecBoard">🔗 View Project</a>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/sidneyfilho/doc-mobney">
-        <img src="https://raw.githubusercontent.com/sidneyfilho/doc-mobney/master/docs/img/capa.png" height="110" alt="Mobney"/>
+      <a href="https://github.com/sidneyfilho/sidneyfilho-portfolio/tree/master/mobney">
+        <img src="https://raw.githubusercontent.com/sidneyfilho/sidneyfilho-portfolio/master/mobney/docs/img/capa.png" height="110" alt="Mobney"/>
       </a>
       <br/>
       <strong>Mobney</strong>
       <p>Gestão financeira pessoal inteligente.</p>
-      <a href="https://github.com/sidneyfilho/doc-mobney">🔗 View Project</a>
+      <a href="https://github.com/sidneyfilho/sidneyfilho-portfolio/tree/master/mobney">🔗 View Project</a>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/sidneyfilho/doc-alvorland">
-        <img src="https://raw.githubusercontent.com/sidneyfilho/doc-alvorland/master/ui/logo.png" height="110" alt="Alvorland"/>
+      <a href="https://github.com/sidneyfilho/sidneyfilho-portfolio/tree/master/alvorland">
+        <img src="https://raw.githubusercontent.com/sidneyfilho/sidneyfilho-portfolio/master/alvorland/ui/logo.png" height="110" alt="Alvorland"/>
       </a>
       <br/>
       <strong>Alvorland</strong>
       <p>Game 3D com mundo virtual e exploração.</p>
-      <a href="https://github.com/sidneyfilho/doc-alvorland">🔗 View Project</a>
+      <a href="https://github.com/sidneyfilho/sidneyfilho-portfolio/tree/master/alvorland">🔗 View Project</a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/sidneyfilho/asset-studio-3d">
